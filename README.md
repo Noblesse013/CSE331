@@ -6,7 +6,7 @@ You may find the following links helpful. Feel free to use any other resources t
 A solid go-to for building your foundations in automata and computability.
 📺 [Watch here](https://www.youtube.com/watch?v=vPrOmBKQfdw&list=PLBENQsMXh3gz85EJ3ZCSa9l9hnUiOer-H&ab_channel=FarhanFeroz)
 
-🔹 **Kabbya Sir’s Class Recordings (After Midterm)**
+🔹 **Kabbya Sir’s Class Recordings **
 Great for revisiting key concepts and catching anything you missed in class.
 📺 [Watch here](https://www.youtube.com/watch?v=g9HvFAGqy3M&list=PLib4rFadvfrckeiUjBjYWnxtyUmW5-X8r)
 
